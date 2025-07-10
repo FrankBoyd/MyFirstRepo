@@ -5,3 +5,5 @@ Adding this change on the main branch
 This is some text
 Adding this change on the conflict branch
  ConflictBranch
+Adding this change on the dev branch -- what a sweet new feature
+Adding even more sweet new stuff to Dev branch
