@@ -1,2 +1,7 @@
+ HEAD
 Adding this text on the Main branch.
 Adding this change on the main branch
+
+This is some text
+Adding this change on the conflict branch
+ ConflictBranch
